@@ -1,7 +1,7 @@
 ### Well, hello there ✌
 
 
-- 🔭 I’m currently working on software development... and trying to a social life🤣
+- 🔭 I’m currently working on software development... and trying to have a social life🤣
 - 🌱 I’m currently learning literally everything that I can
 - 👯 I’m looking to collaborate on whatever project you want me in, and even if I don't know about it, I'll learn it!
 - 🤔 I’m looking for help with finding a job in the programming area, is really difficult for a student to find a part-time (in the programming area)
