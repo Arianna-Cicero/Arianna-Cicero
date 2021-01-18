@@ -1,4 +1,4 @@
-### Well, hello there 👋
+### Well, hello there ✌
 
 
 - 🔭 I’m currently working on software development... and trying to a social life🤣
