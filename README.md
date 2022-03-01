@@ -21,6 +21,7 @@
  <img alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
  <img alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
  <img alt="TypeScript" width="40px" src="https://i.imgur.com/UKoUmCX.png" />
+ <img alt="Python" width="40px" src="https://i.imgur.com/KwB5bDf.png"/>
 </div>
 <br />
 <div align="left">
@@ -31,5 +32,5 @@
  <img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
  <img alt="Cobol" width="40px" src="https://i.imgur.com/OY0lfO3.png" />
  <img alt="RPM" width="45px" src="https://i.imgur.com/QY8hbEN.jpg?1"/>
- <img alt="Angular" width="45px" src="https://i.imgur.com/cRKRQjp.png?1" />
+ <img alt="Angular" width="45px" src="https://i.imgur.com/cRKRQjp.png?1"/>
 </div>
