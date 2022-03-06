@@ -27,7 +27,6 @@
 </div>
 <br />
 <br />
-<br />
 <div align="left" fxLayoutAlign="space-between">
  <img alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
  <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -38,14 +37,14 @@
  <img alt="RPM" width="45px" src="https://i.imgur.com/QY8hbEN.jpg?1"/>
  <img alt="Angular" width="45px" src="https://i.imgur.com/cRKRQjp.png?1"/>
 </div>
-
+<br />
+<br />
 <img align="left" alt="Arianna-Cicero's GitHub Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianna-Cicero"/>  <br/>
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
+
+----
+
 ##  
 
 ### Spotify playing 🎧      
