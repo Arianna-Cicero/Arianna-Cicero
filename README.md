@@ -50,4 +50,20 @@
 
 ### Spotify playing 🎧      
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [<img alt="Spotify 'playing now'" width="350" src="https://https://novatorem-arianna-cicero.vercel.app/api/spotify"/>](https://open.spotify.com/user/313oz22tjhk5eljbgyda6p556fzu)   
