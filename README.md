@@ -2,12 +2,12 @@
 
 
 - 🔭 I’m currently working on software development... and trying to have a social life🤣
-- 🌱 I’m currently learning literally everything that I can🤓
+- 📚 I'm learning literally everything that I can🤓
 - 👯 I’m looking to collaborate on whatever project you want me in, and even if I don't know about it, I'll learn it!
-- 🤔 I’m looking for help with finding a job in the programming area, is really difficult for a student to find a part-time (in the programming area)
+- 🤔 Please get me a programming job
 - 💬 Ask me about anything that you want, I might be able to help you👍
 - 📫 How to reach me: <img alt="discord" width="25" href="https://discord.com/users/607265809793941514" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwheretoinvest.money%2Fwp-content%2Fuploads%2F2017%2F12%2Fdiscord-logo-1024x1024.png&f=1&nofb=1" />
-- ⚡ Fun fact: I wanna be a billionaire so fucking bad, buy all of the things I never had... <img alt="youtube" width="25" href="https://youtu.be/8aRor905cCw" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkit.com%2Fpng%2Ffull%2F2-21145_youtube-logo-transparent-png-pictures-transparent-background-youtube.png&f=1&nofb=1"/>
+- ⚡ Fun fact: I'm in love with the music 😍
 ##
 - Let's play <img alt="LOL" width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flutris.net%2Fmedia%2Fgames%2Ficons%2Fleagueoflegends-icon.png&f=1&nofb=1" />, even tho I'm a **✨ noob ✨**: ArKerber (EUWEST)
 ##
@@ -24,7 +24,7 @@
  <img alt="Python" width="40px" src="https://i.imgur.com/KwB5bDf.png"/>
 </div>
 <br />
-<div align="left">
+<div align="left" fxLayoutAlign="space-between">
  <img alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
  <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
  <img alt="Git" width="40px" src="https://i.imgur.com/R1X9DbC.png?1" />
@@ -34,3 +34,6 @@
  <img alt="RPM" width="45px" src="https://i.imgur.com/QY8hbEN.jpg?1"/>
  <img alt="Angular" width="45px" src="https://i.imgur.com/cRKRQjp.png?1"/>
 </div>
+<br />
+##
+<img align="left" alt"Arianna-Cicero's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt"/>
