@@ -39,15 +39,12 @@
 </div>
 
 <div>
-    <img align="left" alt="Arianna-Cicero's GitHub Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianna-Cicero"/>
+    <img align="left" alt="Arianna-Cicero's GitHub Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianna-Cicero"/>  
 <div/>
 <br />
 
 ##
 
-### Spotify playing 🎧
-<div>
-### Spotify playing 🎧
+### Spotify playing 🎧  
 
 [<img alt="Spotify 'playing now'" width="350" src="https://https://novatorem-arianna-cicero.vercel.app/api/spotify"/>](https://open.spotify.com/user/313oz22tjhk5eljbgyda6p556fzu)
-<div/>
