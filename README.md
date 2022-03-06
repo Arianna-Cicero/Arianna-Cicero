@@ -36,3 +36,5 @@
 </div>
 <br />
 <img align="left" alt"Arianna-Cicero's GitHub Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianna-Cicero"/>
+<br />
+<img align="left" alt="Spotify" src="https://novatorem-arianna-cicero.vercel.app/api?username=Arianna-Cicero&show_icons=true&hide_border=true"/>
