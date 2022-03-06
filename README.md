@@ -38,14 +38,13 @@
  <img alt="Angular" width="45px" src="https://i.imgur.com/cRKRQjp.png?1"/>
 </div>
 
-[<img align="left" alt="Arianna-Cicero's GitHub Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianna-Cicero"/>] <br/>
+<img align="left" alt="Arianna-Cicero's GitHub Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianna-Cicero"/> <br/>
 
+##  
 
-
-##
 <br/>
 <br/>  
 
-### Spotify playing 🎧  
+### Spotify playing 🎧      
 
-[<img alt="Spotify 'playing now'" width="350" src="https://https://novatorem-arianna-cicero.vercel.app/api/spotify"/>](https://open.spotify.com/user/313oz22tjhk5eljbgyda6p556fzu)
+[<img alt="Spotify 'playing now'" width="350" src="https://https://novatorem-arianna-cicero.vercel.app/api/spotify"/>](https://open.spotify.com/user/313oz22tjhk5eljbgyda6p556fzu)   
