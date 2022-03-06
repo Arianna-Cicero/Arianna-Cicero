@@ -38,12 +38,13 @@
  <img alt="Angular" width="45px" src="https://i.imgur.com/cRKRQjp.png?1"/>
 </div>
 
-<div>
-    <img align="left" alt="Arianna-Cicero's GitHub Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianna-Cicero"/> <br />
-<div/><br />
+[<img align="left" alt="Arianna-Cicero's GitHub Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianna-Cicero"/>] <br/>
+
 
 
 ##
+<br/>
+<br/>  
 
 ### Spotify playing 🎧  
 
