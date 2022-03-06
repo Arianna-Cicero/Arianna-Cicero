@@ -11,7 +11,9 @@
 ##
 - Let's play <img alt="LOL" width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flutris.net%2Fmedia%2Fgames%2Ficons%2Fleagueoflegends-icon.png&f=1&nofb=1" />, even tho I'm a **✨ noob ✨**: ArKerber (EUWEST)
 ##
+
 ### 🔨Languages and Tools:
+
 <div align="left" fxLayoutAlign="space-between">
  <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
  <img alt="Visual Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" />
@@ -24,6 +26,7 @@
  <img alt="Python" width="40px" src="https://i.imgur.com/KwB5bDf.png"/>
 </div>
 <br />
+
 <div align="left" fxLayoutAlign="space-between">
  <img alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
  <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -34,12 +37,16 @@
  <img alt="RPM" width="45px" src="https://i.imgur.com/QY8hbEN.jpg?1"/>
  <img alt="Angular" width="45px" src="https://i.imgur.com/cRKRQjp.png?1"/>
 </div>
+
 <br />
-<img align="left" alt"Arianna-Cicero's GitHub Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianna-Cicero"/>
+
+<img align="left" alt="Arianna-Cicero's GitHub Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianna-Cicero"/>
 
 <br />
 <br />
+
+---
 
 ### Spotify playing 🎧
 
-[<img aling="left" alt="Spotify 'playing now'" width="350" src="https://https://novatorem-arianna-cicero.vercel.app/api/spotify"/>](https://open.spotify.com/user/313oz22tjhk5eljbgyda6p556fzu)
+<img align="left" alt="Spotify 'playing now'" width="350" src="https://https://novatorem-arianna-cicero.vercel.app/api/spotify"/>(https://open.spotify.com/user/313oz22tjhk5eljbgyda6p556fzu)
