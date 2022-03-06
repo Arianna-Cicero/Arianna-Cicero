@@ -38,5 +38,7 @@
 <img align="left" alt"Arianna-Cicero's GitHub Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianna-Cicero"/>
 <br/>
 <br/>
+
 ### Spotify playing 🎧
-[<img aling="left" alt="Spotify 'playing now'" width="350" src="https://novatorem-henna-psi.vercel.app/api/spotify"/>](https://open.spotify.com/user/313oz22tjhk5eljbgyda6p556fzu)
+
+[<img aling="left" alt="Spotify 'playing now'" width="350" src="https://https://novatorem-arianna-cicero.vercel.app/api/spotify"/>](https://open.spotify.com/user/313oz22tjhk5eljbgyda6p556fzu)
