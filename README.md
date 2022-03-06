@@ -42,8 +42,7 @@
 
 <img align="left" alt="Arianna-Cicero's GitHub Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianna-Cicero"/>
 
-<br />
-<br />
+<br>
 
 ##
 
