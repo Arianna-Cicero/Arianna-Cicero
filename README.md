@@ -36,4 +36,4 @@
 </div>
 <br />
 ##
-<img align="left" alt"Arianna-Cicero's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt"/>
+<img align="left" alt"Arianna-Cicero's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Arianna-Cicero&show_icons=true&theme=cobalt"/>
