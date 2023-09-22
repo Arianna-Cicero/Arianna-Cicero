@@ -8,9 +8,7 @@
 - 💬 Ask me about anything that you want, I might be able to help you👍
 - 📫 How to reach me: <img alt="discord" width="25" href="https://discord.com/users/607265809793941514" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwheretoinvest.money%2Fwp-content%2Fuploads%2F2017%2F12%2Fdiscord-logo-1024x1024.png&f=1&nofb=1" />
 - ⚡ Fun fact: I'm in love with the music 😍
-##
-- Let's play <img alt="LOL" width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flutris.net%2Fmedia%2Fgames%2Ficons%2Fleagueoflegends-icon.png&f=1&nofb=1" />, even tho I'm a **✨ noob ✨**: ArKerber (EUWEST)
-##
+  
 
 ### 🔨Languages and Tools:
 
@@ -37,6 +35,4 @@
  <img alt="Angular" width="45px" src="https://i.imgur.com/cRKRQjp.png?1"/>
 </div>
 <br />
-<br />
-<img align="left" alt="Arianna-Cicero's GitHub Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianna-Cicero"/>
-<br />
+
