@@ -1,13 +1,7 @@
-### Well, hello there ✌
+### Well, hello
 
-
-- 🔭 I’m currently working on software development... and trying to have a social life🤣
-- 📚 I'm learning literally everything that I can🤓
-- 👯 I’m looking to collaborate on whatever project you want me in, and even if I don't know about it, I'll learn it!
-- 🤔 Please get me a programming job
 - 💬 Ask me about anything that you want, I might be able to help you👍
 - 📫 How to reach me: <img alt="discord" width="25" href="https://discord.com/users/607265809793941514" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwheretoinvest.money%2Fwp-content%2Fuploads%2F2017%2F12%2Fdiscord-logo-1024x1024.png&f=1&nofb=1" />
-- ⚡ Fun fact: I'm in love with the music 😍
   
 
 ### 🔨Languages and Tools:
